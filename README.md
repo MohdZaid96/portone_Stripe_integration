@@ -22,7 +22,7 @@ This repository contains the Node.js backend code for integrating the Stripe Pay
   **Create a .env file in the root directory with your Stripe secret key:**
 
       SECRET_KEY=your_stripe_secret_key
-      PORT=3000
+      PORT=8080
       Replace your_stripe_secret_key with your actual Stripe secret key.
 
 
