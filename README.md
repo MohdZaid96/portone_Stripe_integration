@@ -90,7 +90,7 @@ This repository contains the Node.js backend code for integrating the Stripe Pay
   Stripe API Documentation
   Payment Intents Guide
 
-Feel free to explore and integrate these APIs into your frontend application for seamless Stripe payment processing. If you have any issues or questions, refer to the Stripe documentation or reach out to their support.
+
 
 
 
