@@ -81,6 +81,11 @@ This repository contains the Node.js backend code for integrating the Stripe Pay
     Description: Retrieve a list of all payment intents.
 
 
+**Postman Collection Link**
+
+  https://www.postman.com/security-cosmologist-69473520/workspace/public/collection/36407920-60da3a99-9152-4eee-91f0-784ccb686347
+
+
 # References
   Stripe API Documentation
   Payment Intents Guide
