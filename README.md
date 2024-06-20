@@ -11,7 +11,8 @@ This repository contains the Node.js backend code for integrating the Stripe Pay
   **Clone the repository:**
 
       git clone https://github.com/MohdZaid96/portone_Stripe_integration.git
-      cd payment_stripe
+      cd portone_Stripe_integration
+
 
 
   **Install dependencies:**
